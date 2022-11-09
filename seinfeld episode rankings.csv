@@ -84,15 +84,15 @@ the_raincoats,3,8,38,19.82608696,8.3,79,,5,18
 the_fire,4,7,27,32.86956522,8.5,49,"""Jon Favreau as eric the clown""",5,19
 the_hamptons,5,9,48,93.91304348,8.9,10,"""Shrinkage""",5,20
 the_opposite,4,9,31.5,49.30434783,9.6,1,,5,21
-the_chaperone,,,,0,7.9,149,,6,1
-the_big_salad,,,,0,8.1,112,,6,2
-the_pledge_drive,,,,0,8.2,98,,6,3
-the_chinese_woman,,,,0,8.1,112,,6,4
-the_couch,,,,0,8.1,112,,6,5
-the_gymnast,,,,0,8.2,98,,6,6
-the_soup,,,,0,8.1,112,,6,7
-the_mom_&amp;_pop_store,,,,0,8.1,112,,6,8
-the_secretary,,,,0,8.1,112,,6,9
+the_chaperone,4,8,31,43.13043478,7.9,149,"first ""that's a shame""",6,1
+the_big_salad,4,7,26,31.65217391,8.1,112,,6,2
+the_pledge_drive,3,6,12,9.391304348,8.2,98,,6,3
+the_chinese_woman,4,6,15.5,16.17391304,8.1,112,,6,4
+the_couch,5,9,16,31.30434783,8.1,112,,6,5
+the_gymnast,4,7,24.5,29.82608696,8.2,98,,6,6
+the_soup,4,6,18,18.7826087,8.1,112,,6,7
+the_mom_&amp;_pop_store,4,8,12,16.69565217,8.1,112,,6,8
+the_secretary,,,3,0,8.1,112,,6,9
 the_race,,,,0,8.9,10,,6,10
 the_switch,,,,0,8.9,10,,6,11
 the_label_maker,,,,0,8.5,49,,6,12
