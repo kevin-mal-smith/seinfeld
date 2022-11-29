@@ -18,3 +18,12 @@ The first thing I need to do is generate data about my own personal preferences.
 |  Plot | How well does the story come together? |
 | Quotability/Cultural Impact | Is there an element that I quote a lot, or one that became a cultural phenomenon outside of the show ie "yada yada" |
 | laughs | This is as nerdy as it sounds. I counted my laughs. a short chuckle was .5, an out loud laugh was 1, and anything that made me laugh for longer than 2-3 seconds counts as 1.5 |
+| Total Score | (plot * quotability) * (laughs / 23(run time)) |
+
+For the sake of reproducability I will be including the scores that I generated in csv format.
+
+## Prep
+---
+### "There's good naked and there's bad naked"
+
+I cleaned up and prepped the **scripts.csv** & **episode_info.csv** files then joined them with the data that I generated to create a main database 
