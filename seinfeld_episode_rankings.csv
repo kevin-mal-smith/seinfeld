@@ -93,20 +93,20 @@ the_gymnast,4,7,24.5,29.82608696,8.2,98,,6,6
 the_soup,4,6,18,18.7826087,8.1,112,,6,7
 the_mom_&amp;_pop_store,4,8,12,16.69565217,8.1,112,,6,8
 the_secretary,3,6,17.5,13.69565217,8.1,112,,6,9
-the_race,,,,0,8.9,10,,6,10
-the_switch,,,,0,8.9,10,,6,11
-the_label_maker,,,,0,8.5,49,,6,12
-the_scofflaw,,,,0,8,135,,6,13
-the_beard,,,,0,8.2,98,,6,14
-the_kiss_hello,,,,0,8.2,98,,6,15
-the_doorman,,,,0,8.2,98,,6,16
-the_jimmy,,,,0,8.9,10,,6,17
-the_doodle,,,,0,8.2,98,,6,18
-the_fusilli_jerry,,,,0,8.7,24,,6,19
-the_diplomat's_club,,,,0,8.1,112,,6,20
-the_face_painter,,,,0,8.4,58,,6,21
-the_understudy,,,,0,7.9,149,,6,22
-the_engagement,,,,0,8.6,35,,7,1
+the_race,5,9,32,62.60869565,8.9,10,,6,10
+the_switch,4,9,31.5,49.30434783,8.9,10,"""Kramer's first name revealed""",6,11
+the_label_maker,4,10,28,48.69565217,8.5,49,"""re-gifting""",6,12
+the_scofflaw,3,7,15,13.69565217,8,135,,6,13
+the_beard,4,7,20,24.34782609,8.2,98,,6,14
+the_kiss_hello,3,6,23.5,18.39130435,8.2,98,,6,15
+the_doorman,4,10,26.5,46.08695652,8.2,98,the bro,6,16
+the_jimmy,4,6,22.5,23.47826087,8.9,10,,6,17
+the_doodle,3,7,23,21,8.2,98,,6,18
+the_fusilli_jerry,4,10,49,85.2173913,8.7,24,assman,6,19
+the_diplomat's_club,2,5,12,5.217391304,8.1,112,,6,20
+the_face_painter,3,9,21,24.65217391,8.4,58,,6,21
+the_understudy,3,7,18,16.43478261,7.9,149,,6,22
+the_engagement,4,8,41,57.04347826,8.6,35,,7,1
 the_postponement,,,,0,8.2,98,,7,2
 the_maestro,,,,0,8.1,112,,7,3
 the_wink,,,,0,8.6,35,,7,4
